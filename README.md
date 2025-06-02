@@ -9,5 +9,13 @@ Cada producto consta:
 - Nombre
 - Descripcion.
 - Precio
+- stock (solo visible para el administrador)
+
+El panel de administrador contará con los paneles:
+- Usuarios.
+- Productos.
+- Proveedores.
+
+
 
 a
