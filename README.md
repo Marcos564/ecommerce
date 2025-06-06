@@ -1,5 +1,5 @@
 # ecommerce
-An e-commerce with java spingboot in the bakend
+An e-commerce with java Spingboot in the bakend and a MySQL database.
 
 Los productos son cargados solo por el perfil administrador.
 
